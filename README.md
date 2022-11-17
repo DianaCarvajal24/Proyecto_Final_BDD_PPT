@@ -44,7 +44,6 @@ La tijera GANA el papel. (Gana la tijera.)
 El papel GANA la piedra. (Gana el papel.)
 En caso de empate (que dos jugadores elijan el mismo elemento o que tres jugadores elijan cada uno un objeto distinto), se juega otra vez.
 
-## Pruebas Unitarias 
 
 
 
