@@ -6,7 +6,7 @@ Piedra-Papel-Tijeras Desarrollo Basado en Pruebas
 - Diana Patricia Carvajal Salamanca
 
 ## Entorno de Desarrollo
-Python v2022.18.2
+Python v3.11.0 -2022
 
 ## Historia de usuario
 
