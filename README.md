@@ -6,11 +6,11 @@ Piedra-Papel-Tijeras Desarrollo Basado en Pruebas
 - Diana Patricia Carvajal Salamanca
 
 ## Entorno de Desarrollo
-Python v3.11.0 -2022
-IDE PyCharm
-Marco Cucumber
-Lenguaje Ghirken
-Herramienta Python -> PIP - Behave
+-Python v3.11.0 -2022
+-IDE PyCharm
+-Marco Cucumber
+-Lenguaje Ghirken
+-Herramienta Python -> PIP - Behave
 
 ## Historia de usuario
 
